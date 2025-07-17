@@ -234,4 +234,3 @@ We create a circuit with 2 quantum bits and 2 classical bits:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CvRQfi9aeKa1PI57KFSC8QrxNa70ohBR)
 
-
