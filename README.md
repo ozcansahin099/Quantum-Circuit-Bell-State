@@ -1,5 +1,7 @@
 # 🧠 Quantum Circuit - Bell States
 
+**Bell state simulation with Qiskit – showcasing quantum entanglement.**
+
 ## 1. Introduction
 In quantum mechanics, entanglement allows two qubits to become strongly correlated. If you measure one, you immediately know the result of the other. For example, if you measure the first qubit and get |0⟩, the second qubit will also be |0⟩ — even if they are far apart.
 
